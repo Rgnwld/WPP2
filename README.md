@@ -1,3 +1,3 @@
 ### Novo wpp2 saiu, é segredo!
 
-* Chat feito com Nextjs utilizando websockets
+* Chat feito com Nextjs utilizando WebHook
